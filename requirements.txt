@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+streamlit-option-menu
+sqlalchemy
+mysql-connector-python
+gitpython
+scikit-learn
+xgboost
+joblib
+shap
+pillow
+jupyter
+ipykernel
